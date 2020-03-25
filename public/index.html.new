@@ -1,0 +1,79 @@
+<!-- This is a static file -->
+<!-- served from your routes in server.js -->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>A distributed hero's journey | OSSM Faculty Candidate | Paul Pham</title>
+    <meta name="description" content="A distributed hero's journey.">
+    <link id="favicon" rel="icon" href="https://glitch.com/edit/favicon-app.ico" type="image/x-icon">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/style.css">
+  </head>
+  <body>
+    <header>
+      <h1>
+        <img src="https://blog.usni.org/wp-content/uploads/2016/05/Fully-connected_mesh_network.svg.png" />
+        
+        <br/>
+        A Distributed Hero's Journey
+      </h1>
+      <h2>
+        OSSM Faculty Candidate Talk
+      </h2>
+      <h2>
+        26 March 2020
+      </h2>
+      <h2>
+        Paul Pham
+      </h2>
+    </header>
+
+    <main>
+      <!--
+      <section>
+        <h2>
+          What Is This?
+        </h2>
+        <p>
+          This is an extremely simple website. It's the most basic design we could think of on Glitch.
+        </p>
+        <p>
+          It is intended as a starting point for a beginner. 
+        </p>
+      </section>
+      
+      <section>        
+        <h2>
+          How Can I Use It?
+        </h2>
+        <p>
+          You can clone it to use it for your own purposes. You can find instructions on how to clone/remix it below.
+        </p>
+        <p>
+          Some simple use cases might be:
+        </p>
+        <ul>
+          <li><a href="https://ps-simple-static1-about.glitch.me/">A Personal Website</a></li>         
+          <li><a href="https://ps-simple-static1-event.glitch.me/">An Event Page</a></li>        
+        </ul>
+      </section>
+      -->
+
+    </main>
+
+    <footer>
+      <p>
+      Remixed from <a href="https://glitch.com/edit/#!/ps-simple-static1">Simple Static Starter Site</a> by  <a href="http://www.puzzleschool.com">PuzzleSchool</a>
+      </p>
+      <p>
+        <a href="https://glitch.com/edit/#!/cryptogoth-ossm-talk">View Source</a>
+      </p>
+      <p>
+        <a href="https://glitch.com/edit/#!/remix/cryptogoth-ossm-talk">Remix Project</a>
+      </p>
+    </footer>
+  </body>
+</html>

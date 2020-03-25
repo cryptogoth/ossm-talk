@@ -1,6 +1,6 @@
 #!/bin/sh
 
-NUMBER=1
+NUMBER=0
 INDEX=1
 export NUMBER
 export INDEX

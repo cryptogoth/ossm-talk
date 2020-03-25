@@ -1,8 +1,7 @@
 The early internet // learning
-Distributed
+Distributed systems
 The middle internet // teaching
 Web // privacy // mesh
-Cryptocoins // arcologies
-Fantastic beasts
+cryptocoins Cryptocoins
 The late internet // you
-(Bonus: hacking // heists)
+The end

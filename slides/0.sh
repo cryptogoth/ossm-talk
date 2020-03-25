@@ -2,5 +2,5 @@
 
 clear
 
-figlet "A distributed journey"
+figlet "A distributed hero's journey"
 node -e "require('./outline')(-1)"

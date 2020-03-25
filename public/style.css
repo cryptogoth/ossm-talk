@@ -1,0 +1,27 @@
+body {
+  font-family: arial, sans-serif;
+  margin: 25px;
+}
+
+h1 {
+  text-align: center;
+}
+
+section {
+  padding-top: 12px;
+}
+
+.step {
+  padding: 12px 0;
+}
+
+.step img {
+  display: block;
+  padding: 6px 0;
+}
+
+footer {
+  margin-top: 120px;
+  border-top: 1px solid #ccc;
+  padding-top: 30px;
+}
